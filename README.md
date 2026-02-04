@@ -4,6 +4,11 @@ Welcome to the **Breakout Game Tutorial Series**! 🚀 This project takes you on
 
 ![DEMO](./ytshorts-breakout-repo.gif)
 
+## Repo link
+
+- [https://gh.io/rd-breakout](https://gh.io/rd-breakout)    
+- [game assets](https://gh.io/game-assets)
+
 ## 🎯 What You'll Build
 
 Each part builds upon the previous one, teaching you game development concepts step by step:
