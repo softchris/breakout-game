@@ -2,6 +2,8 @@
 
 Welcome to the **Breakout Game Tutorial Series**! 🚀 This project takes you on an exciting journey from a simple bouncing ball to a full-featured game with explosive effects and high scores! 💥
 
+![DEMO](./ytshorts-breakout-repo.gif)
+
 ## 🎯 What You'll Build
 
 Each part builds upon the previous one, teaching you game development concepts step by step:

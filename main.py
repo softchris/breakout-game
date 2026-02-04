@@ -69,7 +69,11 @@ while running:
 
     # Draw everything
     screen.fill(BLACK)
+
+    # paddle
     pygame.draw.rect(screen, BLUE, (paddle_x, paddle_y, paddle_width, paddle_height))
+
+    # ball
     pygame.draw.ellipse(screen, WHITE, (ball_x, ball_y, ball_size, ball_size))
 
     pygame.display.flip()
