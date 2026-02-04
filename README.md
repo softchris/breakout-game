@@ -7,7 +7,7 @@ Welcome to the **Breakout Game Tutorial Series**! 🚀 This project takes you on
 ## Repo link
 
 - [https://gh.io/rd-breakout](https://gh.io/rd-breakout)    
-- [game assets](https://gh.io/game-assets)
+- [https://gh.io/game-assets](https://gh.io/game-assets)
 
 ## 🎯 What You'll Build
 
